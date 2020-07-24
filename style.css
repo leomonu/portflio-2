@@ -1,0 +1,38 @@
+/* *{
+    border:solid;
+     } */
+    h1{
+      color: darkblue;    
+      }
+    h2{
+      color: gold;
+      text-align: center;
+
+      }
+    p{
+      color: rgb(255, 0, 179);
+      text-align: center;
+      font-size: larger;
+    }
+    .header{
+        background-color: rgba(152, 218, 177, 0.918);
+        display:flex;
+        justify-content: space-between;
+    }
+    .description{
+        background-color: rgb(33, 63, 197);
+    }
+    .grid{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        background-color: rgb(255, 255, 255);
+
+    }
+    .footer{
+        display: flex;
+        justify-content: flex-end;
+        }
+    body{
+        background-color: teal;
+    }
